@@ -1,0 +1,7 @@
+com\model\Endereco.class
+com\dao\Conexao.class
+com\controller\PessoaController.class
+com\repository\PessoaRepository.class
+com\controller\EnderecoController.class
+com\model\Pessoa.class
+com\repository\EnderecoRepository.class
